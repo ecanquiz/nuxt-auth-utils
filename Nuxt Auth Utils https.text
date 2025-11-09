@@ -1,0 +1,31 @@
+Nuxt Auth Utils
+-------------
+https://www.npmjs.com/package/nuxt-auth-utils/v/0.3.6?activeTab=readme
+https://supabase.nuxtjs.org/getting-started/authentication
+https://auth.sidebase.io/
+https://www.better-auth.com/docs/integrations/nuxt
+-------------
+https://github.com/atinux/nuxt-auth-utils
+// server/routes/auth/login.ts
+https://github.com/atinux/nuxt-auth-utils?tab=readme-ov-file#session-management
+-------------
+https://docs.github.com/es/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app
+https://github.com/atinux/nuxt-auth-utils?tab=readme-ov-file#oauth-event-handlers
+// server/routes/auth/github.get.ts
+https://github.com/atinux/nuxt-auth-utils?tab=readme-ov-file#example
+
+https://nuxt.com/docs/4.x/guide/directory-structure/app/middleware
+
+https://github.com/settings/applications/3239769
+
+npm install drizzle-orm @libsql/client
+npm install -D drizzle-kit
+
+https://orm.drizzle.team/
+https://orm.drizzle.team/drizzle-studio/overview
+
+npx drizzle-kit push
+npx drizzle-kit studio
+
+npm install zod
+
