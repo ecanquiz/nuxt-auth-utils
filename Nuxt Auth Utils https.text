@@ -29,3 +29,25 @@ npx drizzle-kit studio
 
 npm install zod
 
+https://v1.h3.dev/utils/request#getrequestipevent-opts-xforwardedfor
+
+What are Passkeys?
+
+In this lesson, learn what passkeys are, how they work, and how they make for an amazing user experience. Under the hood passkeys are nothing more than public/private key pairs verified with a challenge but to the end user it means easy password-less login across all their devices with Face Id or Touch Id .
+
+Links:
+https://blog.google/inside-google/googlers/ask-a-techspert/how-passkeys-work/
+
+Getting Started with Passkeys and Nuxt Auth Utils
+
+In this lesson, get passkey support setup in Nuxt. Set the auth.webAuthn setting in nuxt.config.ts to true and install the following dependencies:
+
+    @simplewebauthn/browser
+    @simplewebauthn/server
+
+npm install @simplewebauthn/browser @simplewebauthn/server
+
+https://www.npmjs.com/package/@simplewebauthn/browser
+https://www.npmjs.com/package/@simplewebauthn/server
+
+
